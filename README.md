@@ -1,3 +1,5 @@
+<img align="center" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="24"> <code>[README PT-BR](https://github.com/Cleok3Lima/alura-studies/blob/main/README_pt-BR.md)</code>
+
 # 💻Alura Projects
 This repository contains a collection of projects developed as part of the studies taken at Alura's course. Alura is an online learning platform that offers a variety of courses in the areas of programming, design, digital marketing and more.
 
